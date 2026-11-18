@@ -92,3 +92,10 @@ padding: 12px 0;
 color: #ffffff;
 text-decoration: none;
 }
+
+.Sobre
+{
+    justify-self: center;
+    width: 80%;
+    text-align: center;
+}
